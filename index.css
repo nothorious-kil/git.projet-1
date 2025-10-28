@@ -1,0 +1,106 @@
+* {
+     text-align: center;
+}
+header{
+    color: rgb(224, 99, 16);
+}
+
+main {
+    margin-top: -30px;
+    color: white;
+    text-align: center;
+    padding: 120px;
+    height: 150px;
+    width: 250px;
+    background-color: rgb(224, 99, 16);
+    margin: auto;
+    border-radius: 15px 15px 15px 15px ;
+}
+
+p.choix{
+    margin-top: -70px;
+}
+
+p.radio{
+    margin-top: 30px;
+}
+
+ #cachalot{
+    height: 40px;
+    width: 360px;
+    background-color: white;
+    color: rgb(224, 99, 16);
+    display: flex;
+    margin: auto;
+    margin-left: -50px;
+}
+ 
+#cachalot h3{
+    margin: auto;
+}
+
+/* #valider{
+    height: 30px;
+    width: 70px;
+    background-color: white;
+    color: rgb(224, 99, 16);
+    display: flex;
+    margin-top: 10px;
+    margin-left: 240px;
+
+}
+
+#valider h4{
+    margin: auto;
+} */
+
+.zonesasie{
+    display: flex;
+    justify-content:center ;
+    margin-top: 10px;
+    margin-left: 51px;
+}
+
+#valider {
+    background-color: white;
+    color:  rgb(224, 99, 16);
+    border: solid 10px white;
+    margin-left: 65px;
+    border-radius: 6px 6px 6px 6px;
+
+}
+
+#inputecriture {
+    height: 17px;
+    width: 250px;
+    border-radius: 6px 6px 6px 6px;
+}
+
+p.partager{
+    color: rgb(224, 99, 16);
+    font-size:medium;
+    display: flex;
+    margin: auto;
+    background-color: white;
+    height: 30px;
+    width: 60px;
+    border-radius: 4px 4px 4px 4px;
+}
+footer{
+    border: 0;
+    text-align: center;
+    margin: auto;
+    color: white;
+    height: 50px;
+    width: auto;
+    background-color: rgb(224, 99, 16);
+}
+
+/* .image{
+    width: 35%;
+    filter: grayscale(100%);
+}  
+
+.back{
+      border: solid 15px black;
+} */

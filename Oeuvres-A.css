@@ -1,0 +1,20 @@
+             /* justify-content */
+
+/* flex-start: alignés au début (par défaut);n
+
+
+flex-end: alignés à la fin;
+
+center: alignés au centre;
+
+space-between: les éléments sont étirés sur tout l'axe
+ (il y a de l' espace entre eux);
+
+space-around: idem,
+les éléments sont étirés sur tout l'axe,
+ mais ils laissent aussi de l' espace sur les extrémités. */
+
+ *{
+    display:flex;
+    flex-wrap: 10px 10px;
+ }
